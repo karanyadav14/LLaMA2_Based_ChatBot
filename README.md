@@ -1,5 +1,9 @@
 ## LLaMA 2 based conversational AI chatbot
 
+- This repo builds LLaMA 2 based chatbot for querying local documents. 
+- Tools used: Ollama, Langchain, Streamlit
+
+
 ### Step 1: Build Environment
 1. Download Ollama : [Link](https://ollama.com/)
 2. Pull LLaMA2 model: ollama pull llama2
